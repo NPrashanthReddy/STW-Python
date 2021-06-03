@@ -1,0 +1,46 @@
+Objective:
+1. Install python in your system Windows/Linux/MacOS
+2. Install required packages to run jupyter notebooks
+##############################
+Optional: 
+Recommended IDE: VSCode 
+VSCode is most general purpose IDE for many use cases apart from python 
+- Streamline software development 
+- Many great features 
+- Helpful for beginner to excell their skills easily
+
+Installation:
+https://code.visualstudio.com/download
+
+* Install by following the steps in the installer 
+
+Install the necessary extensions: Python from microsoft
+
+ ====================================================================
+[Optional] For more info: https://code.visualstudio.com/docs/languages/python
+ =====================================================================
+
+##################################################
+#-----For installing python in the system------#
+
+Go to www.python.org/downloads
+Choose your appropriate OS 
+
+#1 Windows: 
+Windows - 64-bit:https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe
+Windows - 32-bit:https://www.python.org/ftp/python/3.9.5/python-3.9.5.exe
+
+* Download the installer and go through the steps to install successfully
+-------------------------------------------------------------------
+#2 Mac OS 10+:
+Intel: https://www.python.org/ftp/python/3.9.5/python-3.9.5-macosx10.9.pkg
+Universal: https://www.python.org/ftp/python/3.9.5/python-3.9.5-macos11.pkg
+
+* Proceed to install with the installer by following the steps 
+
+open the terminal: 
+1. python --version
+if it prints the version your installation is successful!
+
+2. pip install notebook
+This will install the jupyter notebook 
